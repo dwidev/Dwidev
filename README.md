@@ -5,7 +5,7 @@
 
 ### 📧 Rech me on:
 
-- Mail to: fahmidwi45@gmail.com (mailto:fahmidwi45@gmail.com)
+- Mail to: [fahmidwi45@gmail.com] (mailto:fahmidwi45@gmail.com)
 - LinkedIn: [Fahmi Dwi Syahputra](https://www.linkedin.com/in/fahmi-dwi-995994130/)
 
 ![dwidev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwidev&&show_icons=true&count_private=true&title_color=6F9EFE&icon_color=A8FE6F&text_color=F0F0FA&bg_color=161616)
