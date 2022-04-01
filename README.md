@@ -3,7 +3,7 @@
 ### I’m Fahmi dwi syahputra im Software Developer especially an Frontend & Mobile developer.
 ### Currently Im a Software Engineer (Mobile) at Frisidea Tech Indonesia.
 
-### 📧 Rech me on:
+### 📬 Rech me on:
 
 - Mail to: [fahmidwi45@gmail.com] (mailto:fahmidwi45@gmail.com)
 - LinkedIn: [Fahmi Dwi Syahputra](https://www.linkedin.com/in/fahmi-dwi-995994130/)
