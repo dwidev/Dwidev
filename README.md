@@ -1,10 +1,6 @@
 ### 👋 Hi there, I’m Fahmi dwi syahputra im programmer focused an Frontend developer.
 
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+### Currently Im a Software Engineer (Mobile) at Frisidea Tech Indonesia.
 
 ### 📧 Rech me on:
 
