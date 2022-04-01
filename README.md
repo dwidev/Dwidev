@@ -8,7 +8,7 @@
 
 ### 📧 Rech me on:
 
-- Mail to: [Fahmi Dwi Syahputra](mailto:fahmidwi45@gmail.com)
+- Mail to: fahmidwi45@gmail.com [click here](mailto:fahmidwi45@gmail.com)
 - LinkedIn: [Fahmi Dwi Syahputra](https://www.linkedin.com/in/fahmi-dwi-995994130/)
 
 <!---
