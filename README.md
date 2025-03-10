@@ -1,7 +1,7 @@
 ### Hi there 👋. 
 
 ### I’m Fahmi dwi syahputra im Software Developer especially an Frontend & Mobile developer focused on Flutter Framework.
-#### Currently Im a Flutter Developer at Frisidea Tech Indonesia & Tokio Marine Life Insurance Indonesia, and currently diving into the world of Golang & Backend Development ⚡ 
+ Currently Im a Flutter Developer at Frisidea Tech Indonesia & Tokio Marine Life Insurance Indonesia, and currently diving into the world of Golang & Backend Development ⚡ 
 
 
 ### 📬 Rech me on:
